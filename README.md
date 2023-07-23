@@ -1,4 +1,4 @@
-# Movierecomendationusingemoji
+# Movie_Recommendation_Basedon_emotiobns
 
 Introduction One of the underlying targets of movies is to evoke emotions in their viewers. IMDb offers all the movies for all genre. Therefore the movie titles can be scraped from the IMDb list to recommend to the user.IMDb does not have an API, for accessing information on movies and TV Series. Therefore we have to perform scraping. Scraping is used for accessing information from a website which is usually done with APIs.
 Installation
@@ -31,6 +31,6 @@ Web Scraping is highly beneficial in extracting the data and doing analysis on i
 
 Applications of Crawling
 
-Article extraction for websites that curate con
+Article extraction for websites that curate content
 Business listings extraction for companies that build databases of leads.
 Many different types of data extraction, sometimes called data mining. For example, one popular and sometimes controversial use of a web scraper is for pulling prices off of airlines to publish on airfare comparison sites.
